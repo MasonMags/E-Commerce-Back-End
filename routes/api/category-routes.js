@@ -64,8 +64,15 @@ router.put('/:id', async (req, res) => {
   }
 });
 
-router.delete('/:id', (req, res) => {
-  // delete a category by its `id` value
+// delete a category by its `id` value
+router.delete('/:id', async (req, res) => {
+  const deletedCategory = await Book.destroy({
+    where: {
+      id: req.params.id,
+    },
+  });
+  
+  res.json(deletedCategory);
 });
 
 module.exports = router;
