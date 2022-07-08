@@ -1,6 +1,6 @@
 # 13 Object-Relational Mapping (ORM): E-Commerce Back End
 
-## Your Task
+## Task
 
 Internet retail, also known as **e-commerce**, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to their prevalence, understanding the fundamental architecture of these platforms will benefit you as a full-stack web developer.
 
@@ -32,21 +32,27 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 ```
 
-## Mock-Up
+## Demo Videos
 
-The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia:
+The following video shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia:
 
-![In Insomnia, the user tests “GET tags,” “GET Categories,” and “GET All Products.”.](./Assets/13-orm-homework-demo-01.gif)
+https://drive.google.com/file/d/1mPMmmU0DQZ8xcYRXA8GQ4jh7BPQnfqIc/view
 
-The following animation shows the application's GET routes to return a single category, a single product, and a single tag being tested in Insomnia:
+The following video shows the application's GET routes to return a single category, a single product, and a single tag being tested in Insomnia:
 
-![In Insomnia, the user tests “GET tag by id,” “GET Category by ID,” and “GET One Product.”](./Assets/13-orm-homework-demo-02.gif)
+https://drive.google.com/file/d/1p4LYSY-dxSWljZ2VLv9QmNbJIrlW25L3/view
 
-The following animation shows the application's POST, PUT, and DELETE routes for categories being tested in Insomnia:
+The following video shows the application's POST, PUT, and DELETE routes for categories being tested in Insomnia:
 
-![In Insomnia, the user tests “DELETE Category by ID,” “CREATE Category,” and “UPDATE Category.”](./Assets/13-orm-homework-demo-03.gif)
+https://drive.google.com/file/d/1AEfc-Nz6_OUQgOSlMw-2kqpB7A_7xbEQ/view
 
-Your walkthrough video should also show the POST, PUT, and DELETE routes for products and tags being tested in Insomnia.
+The following videos show the application's POST, PUT, and DELETE routes for products being tested in Insomnia.
+
+https://drive.google.com/file/d/1K3D__8ADAiAVq2ZOPm5kw9kK5giWvPOv/view
+
+The following videos show the application's POST, PUT, and DELETE routes for tags being tested in Insomnia.
+
+https://drive.google.com/file/d/1oO1G-VmIXzLYuz39ZMbP17IWo3dcGYl1/view
 
 ## Getting Started
 
