@@ -44,14 +44,17 @@ The following video shows the application's POST, PUT, and DELETE routes for cat
 
 https://drive.google.com/file/d/1AEfc-Nz6_OUQgOSlMw-2kqpB7A_7xbEQ/view
 
-The following videos show the application's POST, PUT, and DELETE routes for products being tested in Insomnia.
+The following video shows the application's POST, PUT, and DELETE routes for products being tested in Insomnia.
 
 https://drive.google.com/file/d/1K3D__8ADAiAVq2ZOPm5kw9kK5giWvPOv/view
 
-The following videos show the application's POST, PUT, and DELETE routes for tags being tested in Insomnia.
+The following video shows the application's POST, PUT, and DELETE routes for tags being tested in Insomnia.
 
 https://drive.google.com/file/d/1oO1G-VmIXzLYuz39ZMbP17IWo3dcGYl1/view
 
+The following video shows how to create the schema from the MySQL shell and how to seed the database from the command line.
+
+https://drive.google.com/file/d/1r5-R6Wn7zdSAs9NP3loPUxcCM9WGF6pa/view
 
 ### Database Models
 
